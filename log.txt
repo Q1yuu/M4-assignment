@@ -1,3 +1,5 @@
+5cbff96 Task 2.2 extracting volume credits
+df6e410 Task 2.1 update log
 18b5560 Task 2.1 decomposing the statement method
 4b64a16 Task 1.2 add log.txt
 f11758d Task 1.1 fix checkstyle
