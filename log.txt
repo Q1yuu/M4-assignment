@@ -1,3 +1,5 @@
+de7bc06 Task 2.3 removing the frmt variable
+136ce9f Task 2.2 update log
 5cbff96 Task 2.2 extracting volume credits
 df6e410 Task 2.1 update log
 18b5560 Task 2.1 decomposing the statement method
