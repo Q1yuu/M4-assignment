@@ -1,3 +1,5 @@
+d3ce441 Task 2.4 removing total volume credits and amount
+8f04941 Task 2.3 update log
 de7bc06 Task 2.3 removing the frmt variable
 136ce9f Task 2.2 update log
 5cbff96 Task 2.2 extracting volume credits
